@@ -39,6 +39,15 @@ A basic set of CSS media queries. Includes breakpoints for mobile, tablet, deskt
 ### React Breakpoints
 
 ### Creating a style guide for your own projects
+This can be referred back to and (at least for me) is easier to read then digging through a stylesheet. There are free style guide templates available on Figma, and in general the internet, I love this one from [Valeriya Desire.](https://www.figma.com/community/file/1000026521402926606 "Style Guide UI Kit on Figma") It can be a great starting point to make your own.
+
+
+### Documenting Your Own Projects
+Basic ideas to preserve sanity:
+* Separate purpose by file.
+* Create a text document in root that describes the what and the where
+* For files that become very long, see first item, or, create a table of contents at the beginning.
+* Take breaks.
 
 ### Contribution Guidelines
 Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to the project.
