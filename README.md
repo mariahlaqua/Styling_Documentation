@@ -44,7 +44,7 @@ This can be referred back to and (at least for me) is easier to read then diggin
 
 ### Documenting Your Own Projects
 Basic ideas to preserve sanity:
-* Separate purpose by file when it makes sense to (SASS, Js, use cases)
+* Separate purpose by file (when it makes sense)
 * Name things in a way that makes sense.
 * Divide things into logical sections
 * For files that become very long, see first item, or, create a table of contents at the beginning.
