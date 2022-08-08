@@ -7,7 +7,24 @@ About
 This repo contains a set of documents to be considered as a default starting point for styling projects. Additionally, it aims to provide insight into how to plan and execute styling.  Empty sections indicate where resources are still being gathered and decisions made.
 Hopefully this planning allows for greater ease when returning to projects after some time away from them. It also aims to aid in planning collaborative efforts.
 
+Planning
+------
 
+### Creating a style guide for yourself
+This can be referred back to and (at least for me) is easier to read then digging through a stylesheet. There are free style guide templates available on Figma, and in general the internet, I love this one from [Valeriya Desire.](https://www.figma.com/community/file/1000026521402926606 "Style Guide UI Kit on Figma") It can be a great starting point to make your own.
+
+
+### Documenting Your Own Projects
+Basic ideas to preserve sanity:
+* Separate purpose by file (when it makes sense)
+* Name things in a way that makes sense.
+* Divide things into logical sections
+* For files that become very long, see first item, or, create a table of contents at the beginning.
+* Write detailed comments
+
+
+Stylesheets
+------
 
 ### Reset
 The reset.css sheet is the work of Eric Meyer. Credit is given at the beginning of the sheet. You can read what Meyer has to say about it [here.](https://meyerweb.com/eric/tools/css/reset/ "CSS Tools: Reset CSS")
@@ -29,28 +46,22 @@ yarn
 npm
 ```npm install --save normalize.css```
 
-### Vendor Prefixes
-Browsers constantly add new features. If you have questions about what does and does not require vendor prefixes, or want to test your code across browsers, I highly recommend [caniuse.com](https://caniuse.com/ "Can I Use?")
-You can also check out the [GitHub Repo.](https://github.com/fyrd/caniuse "Fyrd's GitHub Repo Can I Use")
 
 ### CSS Media Queries for Breakpoints and Accessibility
 A basic set of CSS media queries. Includes breakpoints for mobile, tablet, desktop, and orientation changes. At the end of the sheet media queries are listed to enable [accessibility](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility "MDN on Accessibility Media Queries") options for users.
+
+Considerations, Flexbox & Grid cheatsheets & alternative styling methods
+------
+
+### Vendor Prefixes
+Browsers constantly add new features. If you have questions about what does and does not require vendor prefixes, or want to test your code across browsers, I highly recommend [caniuse.com](https://caniuse.com/ "Can I Use?")
+You can also check out the [GitHub Repo.](https://github.com/fyrd/caniuse "Fyrd's GitHub Repo Can I Use")
 
 ### Flexbox and Grid
 
 ### React Breakpoints
 
-### Creating a style guide for your own projects
-This can be referred back to and (at least for me) is easier to read then digging through a stylesheet. There are free style guide templates available on Figma, and in general the internet, I love this one from [Valeriya Desire.](https://www.figma.com/community/file/1000026521402926606 "Style Guide UI Kit on Figma") It can be a great starting point to make your own.
 
-
-### Documenting Your Own Projects
-Basic ideas to preserve sanity:
-* Separate purpose by file (when it makes sense)
-* Name things in a way that makes sense.
-* Divide things into logical sections
-* For files that become very long, see first item, or, create a table of contents at the beginning.
-* Write detailed comments
 
 ### Contribution Guidelines
 Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to this project.
