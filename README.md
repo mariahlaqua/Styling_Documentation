@@ -50,4 +50,4 @@ Basic ideas to preserve sanity:
 * Take breaks.
 
 ### Contribution Guidelines
-Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to the project.
+Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to this project.
