@@ -1,5 +1,5 @@
 # Styling Documentation
-General guidelines, for me, by me (and when noted, others), for organizing and creating and making styling decisions.
+A resource of general guidelines for organizing, creating and making styling decisions. Especially geared towards developers working on hobby or personal projects.
 
 About
 ------
@@ -41,4 +41,4 @@ A basic set of CSS media queries. Includes breakpoints for mobile, tablet, deskt
 ### Creating a style guide for your own projects
 
 ### Contribution Guidelines
-
+Please see CONTRIBUTING.md for guidelines on adding to the project.
