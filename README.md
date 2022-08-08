@@ -4,7 +4,7 @@ A resource of general guidelines for organizing, creating and making styling dec
 About
 ------
 #### This is a work in progress.
-This repo contains a set of documents to be considered as a default starting point for styling projects. Additionally, it aims to provide insight into how to plan and execute styling. This is a work in progress. Empty sections indicate where I am still gathering resources and making decisions. I made it for myself in order to keep myself organized.
+This repo contains a set of documents to be considered as a default starting point for styling projects. Additionally, it aims to provide insight into how to plan and execute styling.  Empty sections indicate where resources are still being gathered and decisions made.
 Hopefully this planning allows for greater ease when returning to projects after some time away from them. It also aims to aid in planning collaborative efforts.
 
 
