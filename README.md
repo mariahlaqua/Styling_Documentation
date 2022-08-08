@@ -18,7 +18,7 @@ This can be referred back to and (at least for me) is easier to read then diggin
 Basic ideas to preserve sanity:
 * Separate purpose by file (when it makes sense)
 * Name things in a way that makes sense.
-* Divide things into logical sections
+* Divide things into [logical sections](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing "MDN: Organizing Your CSS")
 * For files that become very long, see first item, or, create a table of contents at the beginning.
 * Write detailed comments
 
