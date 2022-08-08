@@ -44,10 +44,10 @@ This can be referred back to and (at least for me) is easier to read then diggin
 
 ### Documenting Your Own Projects
 Basic ideas to preserve sanity:
-* Separate purpose by file.
-* Create a text document in root that describes the what and the where
+* Separate purpose by file when it makes sense to (SASS, Js, use cases)
+* Name things in a way that makes sense.
 * For files that become very long, see first item, or, create a table of contents at the beginning.
-* Take breaks.
+* Write detailed comments for js that interacts with styling
 
 ### Contribution Guidelines
 Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to this project.
