@@ -1,11 +1,13 @@
 # Styling Documentation
-A resource of general guidelines for organizing, creating and making styling decisions. Especially geared towards web developers working on hobby or personal projects who already have a fundamental understanding of CSS, js, React, etc. This does not include information specific to mobile dev, such as Flutter & React Native.
+
 
 About
 ------
 #### This is a work in progress.
-This repo contains a set of documents & links to be considered as a default starting point for styling projects. Additionally, it aims to provide insight into how to plan and execute styling.  Empty sections indicate where resources are still being gathered and decisions made.
-Hopefully this planning allows for greater ease when returning to projects after some time away from them. It also aims to aid in planning collaborative efforts.
+This repo contains a set of documents & links to be considered as a default starting point for styling projects. These are general guidelines for organizing, creating and making styling decisions. Especially geared towards web developers working on hobby or personal projects who already have a fundamental understanding of CSS, js, React, etc. This does not include information specific to mobile dev, such as Flutter & React Native. 
+
+Additionally, it aims to provide insight into how to plan and execute styling.  Empty sections indicate where resources are still being gathered.
+Hopefully this planning allows for greater ease when planning and returning returning to projects after some time away from them. It also aims to aid in planning collaborative efforts.
 
 Planning
 ------
