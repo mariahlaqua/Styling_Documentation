@@ -1,5 +1,5 @@
 # Styling Documentation
-A resource of general guidelines for organizing, creating and making styling decisions. Especially geared towards developers working on hobby or personal projects.
+A resource of general guidelines for organizing, creating and making styling decisions. Especially geared towards developers working on hobby or personal projects who already have a fundamental understanding of CSS, js, React, etc.
 
 About
 ------
