@@ -46,8 +46,9 @@ This can be referred back to and (at least for me) is easier to read then diggin
 Basic ideas to preserve sanity:
 * Separate purpose by file when it makes sense to (SASS, Js, use cases)
 * Name things in a way that makes sense.
+* Divide things into logical sections
 * For files that become very long, see first item, or, create a table of contents at the beginning.
-* Write detailed comments for js that interacts with styling
+* Write detailed comments
 
 ### Contribution Guidelines
 Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to this project.
