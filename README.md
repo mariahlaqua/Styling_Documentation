@@ -1,11 +1,12 @@
-# CSS_Documentation
-General guidelines, for me, by me (and when noted, others), for organizing and creating CSS.
+# Styling Documentation
+General guidelines, for me, by me (and when noted, others), for organizing and creating and making styling decisions.
 
 About
 ------
-Last updated: 08/08/2022
-This repo contains a set of stylesheets to be considered as a default starting point with projects. Additionally, it aims to provide insight into how to plan and execute stylesheets.
+#### This is a work in progress.
+This repo contains a set of documents to be considered as a default starting point for styling projects. Additionally, it aims to provide insight into how to plan and execute styling. This is a work in progress. Empty sections indicate where I am still gathering resources and making decisions. I made it for myself in order to keep myself organized.
 Hopefully this planning allows for greater ease when returning to projects after some time away from them. It also aims to aid in planning collaborative efforts.
+
 
 
 ### Reset
@@ -29,10 +30,15 @@ npm
 ```npm install --save normalize.css```
 
 ### Vendor Prefixes
-Browsers constantly add new features, woohoo! If you have questions about what does and does not require vendor prefixes, or want to test your code across browsers, I highly recommend [caniuse.com](https://caniuse.com/ "Can I Use?")
+Browsers constantly add new features. If you have questions about what does and does not require vendor prefixes, or want to test your code across browsers, I highly recommend [caniuse.com](https://caniuse.com/ "Can I Use?")
 You can also check out the [GitHub Repo.](https://github.com/fyrd/caniuse "Fyrd's GitHub Repo Can I Use")
 
-### CSS Breakpoints
+### CSS Media Queries for Breakpoints and Accessibility
+A basic set of CSS media queries. Includes breakpoints for mobile, tablet, desktop, and orientation changes. At the end of the sheet media queries are listed to enable [accessibility](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility "MDN on Accessibility Media Queries") options for users.
 
 ### React Breakpoints
+
+### Creating a style guide for your own projects
+
+### Contribution Guidelines
 
