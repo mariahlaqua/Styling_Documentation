@@ -1,5 +1,5 @@
-# CSS_Documentation
-General guidelines, for me, by me (and when noted, others), for organizing and creating CSS.
+# Styling Documentation
+General guidelines, for me, by me (and when noted, others), for organizing and creating and making styling decisions.
 
 About
 ------
