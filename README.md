@@ -41,4 +41,4 @@ A basic set of CSS media queries. Includes breakpoints for mobile, tablet, deskt
 ### Creating a style guide for your own projects
 
 ### Contribution Guidelines
-Please see CONTRIBUTING.md for guidelines on adding to the project.
+Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to the project.
