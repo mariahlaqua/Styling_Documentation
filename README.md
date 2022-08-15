@@ -13,7 +13,7 @@ Planning
 ------
 
 ### Creating a style guide & wireframe for your project
-This can be referred back to and (at least for me) is easier to read then digging through a CSS file. There are free style guide and wireframe templates available on [Figma](https://www.figma.com/), and in general the internet, I love this one from [Valeriya Desire.](https://www.figma.com/community/file/1000026521402926606 "Style Guide UI Kit on Figma") It can be a great starting point to make your own. Once you make one style guide it can be easily recycled and updated for each project.
+This can be referred back to and (at least for me) is easier to read then digging through a CSS file. There are free style guide and wireframe templates available on [Figma](https://www.figma.com/). I love this style guide template from [Valeriya Desire.](https://www.figma.com/community/file/1000026521402926606 "Style Guide UI Kit on Figma") It can be a great starting point to make your own. Once you make one style guide it can be easily recycled and updated for each project.
 
 If you are new to Figma, [this 45minute tutorial](https://www.youtube.com/watch?v=m0sHva0JjZE&t=17s&ab_channel=AdrianTwarog) from Adrian Twarog shows a UI designer's Figma work flow for a single page website wireframe.
 
