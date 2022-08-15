@@ -15,6 +15,17 @@ Planning
 ### Creating a style guide for yourself
 This can be referred back to and (at least for me) is easier to read then digging through a stylesheet. There are free style guide templates available on Figma, and in general the internet, I love this one from [Valeriya Desire.](https://www.figma.com/community/file/1000026521402926606 "Style Guide UI Kit on Figma") It can be a great starting point to make your own.
 
+If you are new to Figma, [this 45minute tutorial](https://www.youtube.com/watch?v=m0sHva0JjZE&t=17s&ab_channel=AdrianTwarog) from Adrian Twarog shows a UI designer's Figma work flow for a single page website.
+
+### Illustrations, Icons & Fonts
+
+[unDraw](https://undraw.co/license) is a collection of illustrations that are generally free to use. If you plan on monetizing your project please read the license carefully.
+
+[Font Awesome](https://fontawesome.com/) is a collection of icons. There are enough free icons to cover most needs.
+
+[fontpair](https://www.fontpair.co/all) has a collection of [Google Fonts](https://fonts.google.com/) pre-paired together. You will need to pull the code from Google.
+
+[Google Icons:](https://fonts.google.com/icons) Google's collection of UI icons.
 
 ### Documenting Your Own Projects
 Basic ideas to preserve sanity:
