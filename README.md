@@ -36,8 +36,9 @@ Basic ideas to preserve sanity:
 * Write detailed comments
 
 
-Stylesheets
+CSS Stylesheets
 ------
+Starting with basic, older stylesheets and up to Materialize UI.
 
 ### Reset
 The reset.css sheet is the work of Eric Meyer. Credit is given at the beginning of the sheet. You can read what Meyer has to say about it [here.](https://meyerweb.com/eric/tools/css/reset/ "CSS Tools: Reset CSS")
@@ -72,8 +73,12 @@ You can also check out the [GitHub Repo.](https://github.com/fyrd/caniuse "Fyrd'
 
 ### Flexbox and Grid
 [Grid cheatsheet from Malven Co.](https://grid.malven.co/ "Grid Cheatsheet")
-### React Breakpoints
 
+### Materialize UI
+Materialize UI will do much of the heavy lifting for you. It has built in break points and is built by Google's Material Design team. You can use [cdnjs.com](https://cdnjs.com/libraries/materialize) to link the stylesheet, or [download different versions of it](https://materializecss.com/) to include in projects. [The github repository](https://github.com/Dogfalo/materialize). There is excellent documentation available.
+
+CLI for npm
+```npm install materialize-css@next```
 
 
 ### Contribution Guidelines
