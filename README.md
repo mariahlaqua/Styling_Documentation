@@ -85,19 +85,25 @@ Styling React
 [Material UI, MUI, can be used with React.](https://mui.com/material-ui/getting-started/overview/) This provides an entire library of components, icons, etc. that can be imported as needed for use with a project. There are several variations, but the standard, and free, Emotion styling package can be installed with the following commands:
 
 Install library
+
 ```npm install @mui/material @emotion/react @emotion/styled```
+
 ```yarn add @mui/material @emotion/react @emotion/styled```
 
 Install Roboto Font from Google Fonts
+
 ```npm install @fontsource/roboto```
+
 ```yarn add @fontsource/roboto```
 
 
 Install MUI Icons
+
 ```npm install @mui/icons-material```
+
 ```yarn add @mui/icons-material```
 
-It is also possible to install with the CDN - but installing the package and importing what is needed will result improve page performance.
+It is also possible to install with the CDN - but installing the package and importing what is needed will result in improved performance.
 
 
 ### Contribution Guidelines
