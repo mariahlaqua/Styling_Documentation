@@ -106,5 +106,44 @@ Install MUI Icons
 It is also possible to install with the CDN - but installing the package and importing what is needed will result in improved performance.
 
 
+## Tailwind CSS and Controlling className in Create-React-App
+
+Some packages that can be used to work with [Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app) include: [classnames](https://www.npmjs.com/package/classnames) and [prop-types](https://www.npmjs.com/package/prop-types). These allow the creation of one component with many styling options, based on the props passed into the component at rendering. For example, you may want a button with primary, secondary, warning, success, outline, and rounded variations. These variations can be controlled with boolean props, where the prop is present or it is not. PropTypes can throw an error when duplicate styling props are passed into a component. classnames can create the string to be entered into the components className attribute based on the props. Note that TypeScript has built in prop validation and so prop-types is not necessary.
+
+Here's the general installation procedures for these when create-react-app is already installed, from the app directory:
+
+```npm install -D tailwindcss```
+
+```npx tailwindcss init```
+
+```npm install prop-types```
+
+```npm install classnames```
+
+To configure Tailwind CSS, open the `tailwind.config.js` file and paste the following configuration:
+
+```/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}```
+
+Change directory to the src folder, and create an index.css file. Inside this file paste the following:
+
+```@tailwind base;
+@tailwind components;
+@tailwind utilities;```
+
+Finally, make sure to import the css to your `index.js` file in the src directory:
+
+```import './index.css';```
+
+Further documentation on prop-types and classnames can be found by clicking the links provided above.
+
 ### Contribution Guidelines
 Please see [CONTRIBUTING.md](https://github.com/mariahlaqua/Styling_Documentation/blob/main/CONTRIBUTING.md) for guidelines on adding to this project.
