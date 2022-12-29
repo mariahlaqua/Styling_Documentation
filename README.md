@@ -120,26 +120,24 @@ Here's the general installation procedures for these when create-react-app is al
 
 ```npm install classnames```
 
-To configure Tailwind CSS, open the `tailwind.config.js` file and paste the following configuration:
+To configure Tailwind CSS, open the ```tailwind.config.js``` file and replace the content section configuration:
 
-```/** @type {import('tailwindcss').Config} */
+```
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}```
+  ],  
+ ```
 
-Change directory to the src folder, and create an index.css file. Inside this file paste the following:
+Change directory to the src folder, and create an ```index.css``` file. Inside this file paste the following:
 
-```@tailwind base;
+```
+@tailwind base;
 @tailwind components;
-@tailwind utilities;```
+@tailwind utilities;
+```
 
-Finally, make sure to import the css to your `index.js` file in the src directory:
+Finally, make sure to import the css to your ```index.js``` file in the src directory:
 
 ```import './index.css';```
 
